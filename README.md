@@ -1,8 +1,8 @@
-<h1> Gustavo Medeiros, 19 👨🏽‍💻 </h1>
+<h1> Gustavo, 19 👨🏽‍💻 </h1>
 
 <h3> Aprendiz de tecnologia e QA. <br> </h3>
 
-> HTML | CSS | JS | CYPRESS | GIT
+> HTML | CSS | JS | CYPRESS | GIT 
 
 <br>
 
