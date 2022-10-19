@@ -8,9 +8,9 @@
 
 Mídias sociais 🌐
 <html>
-<a href="https://www.instagram.com/gustamtz/" target="blank"> Instagram </a>
+<a href="https://www.instagram.com/gustamtz/"> Instagram </a>
 <br>
-<a href="https://www.linkedin.com/in/gustavo-medeiros-thomaz-77819420a/" target="blank"> LinkedIn </a>
+<a href="https://www.linkedin.com/in/gustavo-medeiros-thomaz-77819420a/"> LinkedIn </a>
 <br>
 <br>
 </html>
