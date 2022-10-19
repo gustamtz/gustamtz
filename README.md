@@ -2,7 +2,7 @@
 
 <h3> Aprendiz de tecnologia e QA. <br> </h3>
 
-> HTML | CSS | JS | CYPRESS 
+> HTML | CSS | JS | CYPRESS | GIT
 
 <br>
 
