@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1> Gustavo Medeiros, 19 👨🏽‍💻 </h1>
 
-<!--
-**gustamtz/gustamtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> Aprendiz de tecnologia e QA. <br>
+ HTML | CSS | JS | CYPRESS </h3>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mídias sociais 🌐
+<html>
+<a href="https://www.instagram.com/gustamtz/"> Instagram </a>
+<br>
+<a href="https://www.linkedin.com/in/gustavo-medeiros-thomaz-77819420a/"> LinkedIn </a>
+<br>
+<br>
+</html>
+
+<br>
+
+🇧🇷 Born in Mauá-SP, Brasil
