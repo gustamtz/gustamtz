@@ -1,8 +1,8 @@
 <h1> Gustavo, 19 👨🏽‍💻 </h1>
 
-<h3> Technology and QA Apprentice. </h3>
-<h3> Studing at Fatec-SP & @Alura </h3> 
-<br>
+<h3> Technology and QA Apprentice; </h3>
+<h3> Studing at Fatec-SP & <a href="https://github.com/alura-cursos"> Alura </h3> 
+
 > HTML | CSS | JS | CYPRESS | GIT 
 
 <br>
