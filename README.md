@@ -3,7 +3,7 @@
 <h3> Technology and QA Apprentice; <br>
  Studing at Fatec-SP & <a href="https://github.com/alura-cursos"> @Alura</h3> 
 
-> HTML5 | CSS3 | JAVASCRIPT | CYPRESS | GIT 
+> HTML5 | CSS3 | JS | CYPRESS | GIT 
 
 <br>
 
