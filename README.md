@@ -15,8 +15,7 @@
 
 Social media 🌐
  
-<a href="https://www.instagram.com/gustamtz/"> Instagram </a>
-<br>
+<a href="https://www.instagram.com/gustamtz/"> Instagram </a> -
 <a href="https://www.linkedin.com/in/gustavo-medeiros-thomaz-77819420a/"> LinkedIn </a>
 <br><br><br>
  
