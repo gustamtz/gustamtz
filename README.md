@@ -13,10 +13,8 @@
 
 <br><br>
 
-Social media 🌐
- 
-<a href="https://www.instagram.com/gustamtz/"> Instagram </a> -
-<a href="https://www.linkedin.com/in/gustavo-medeiros-thomaz-77819420a/"> LinkedIn </a>
+Social media 🌐 
+<a href="https://www.linkedin.com/in/gustavo-medeiros-thomaz-77819420a/"> LinkedIn </a> 
 <br><br><br>
  
 🇧🇷 Born in Mauá-SP, Brasil
