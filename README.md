@@ -13,9 +13,4 @@
 <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
 </div>
 
-<br><br>
-
-Social media 🌐 
-<a href="https://www.linkedin.com/in/gustavo-medeiros-thomaz-77819420a/"> LinkedIn </a> 
-<br><br><br>
 
