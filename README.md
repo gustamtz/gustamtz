@@ -1,8 +1,9 @@
 # Gustavo, 19 
 
-<h3> Technology and QA Apprentice; <br>
- Studing at Fatec-SP & <a href="https://github.com/alura-cursos"> @Alura</h3> 
+<p> Technology and QA Apprentice; <br>
+ Studing at Fatec-SP & <a href="https://github.com/alura-cursos"> @Alura</p> 
 
+ <h2> Tools </h2>
 <div style="display: inline_block">
 <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,5 +18,4 @@
 Social media 🌐 
 <a href="https://www.linkedin.com/in/gustavo-medeiros-thomaz-77819420a/"> LinkedIn </a> 
 <br><br><br>
- 
-🇧🇷 Born in Mauá-SP, Brasil
+
