@@ -1,4 +1,4 @@
-# Gustavo, 19 👨🏽‍💻 
+# Gustavo, 19 
 
 <h3> Technology and QA Apprentice; <br>
  Studing at Fatec-SP & <a href="https://github.com/alura-cursos"> @Alura</h3> 
