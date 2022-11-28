@@ -1,7 +1,7 @@
 # Gustavo, 19 
 
-<p> Technology and QA Apprentice; <br>
- Studing at Fatec-SP & <a href="https://github.com/alura-cursos"> @Alura</p> 
+<p> Tech intern at Doxa Code; <br>
+ studing at Fatec & <a href="https://github.com/alura-cursos"> @Alura</p>
 
  <h2> Tools </h2>
 <div style="display: inline_block">
