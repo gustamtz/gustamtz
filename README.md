@@ -1,7 +1,5 @@
 # Gustavo, 19 
 
-<p> Tech intern at Doxa Code; <br>
- studing at Fatec & <a href="https://github.com/alura-cursos"> @Alura</p>
 
  <h2> Tools </h2>
 <div style="display: inline_block">
